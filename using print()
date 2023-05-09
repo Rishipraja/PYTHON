@@ -1,0 +1,4 @@
+#using print()
+
+print("Hello World")
+print("Rishi prajapati")
