@@ -1,0 +1,9 @@
+#using type ()
+a=10
+print(type(a))
+
+b="rishi"
+print(type(b))
+
+c=10.3
+print(type(c))
